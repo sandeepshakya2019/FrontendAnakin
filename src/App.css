@@ -16,3 +16,12 @@
   width: 100%;
   padding: 5px;
 }
+.head-title {
+  color: green;
+}
+.head-url {
+  color: goldenrod;
+}
+.headings {
+  color: brown;
+}
